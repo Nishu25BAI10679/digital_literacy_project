@@ -49,5 +49,3 @@ Developed a case study on a cybercrime topic and prepared a prevention checklist
 - task-5-cybercrime/ — Case study & prevention guide  
 
 ---
-
-**This project demonstrates my understanding of digital literacy and responsible participation in the digital world.**
